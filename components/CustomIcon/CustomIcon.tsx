@@ -1,3 +1,5 @@
+import React from "react";
+
 import { CustomIconProps } from "./CustomIcon";
 
 export function CustomIcon(props: CustomIconProps) {
